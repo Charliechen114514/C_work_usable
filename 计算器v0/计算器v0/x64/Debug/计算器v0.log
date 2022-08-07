@@ -1,0 +1,4 @@
+﻿  运行界面.cpp
+C:\Users\陈冠豪\source\repos\计算器v0\计算器v0\运行界面.cpp(39,19): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+C:\Users\陈冠豪\source\repos\计算器v0\计算器v0\运行界面.cpp(26,5): warning C4102: “yep”: 未引用的标签
+  计算器v0.vcxproj -> C:\Users\陈冠豪\source\repos\计算器v0\x64\Debug\计算器v0.exe
