@@ -1,0 +1,44 @@
+﻿  源.cpp
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(32,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(32,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(42,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(42,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(104,14): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(104,14): message : 请考虑在格式字符串中使用“%lf”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(107,14): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(107,14): message : 请考虑在格式字符串中使用“%lf”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(110,14): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(110,14): message : 请考虑在格式字符串中使用“%lf”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(113,14): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(113,14): message : 请考虑在格式字符串中使用“%lf”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(116,14): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(116,14): message : 请考虑在格式字符串中使用“%lf”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(119,14): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(119,14): message : 请考虑在格式字符串中使用“%lf”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(122,15): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(122,15): message : 请考虑在格式字符串中使用“%lf”
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(175,131): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(175,53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(177,132): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(177,54): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(187,136): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(187,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(189,137): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(189,56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(212,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(213,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(214,18): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(215,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(216,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(217,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(218,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(219,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(220,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(221,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(222,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(223,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(224,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(251,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(252,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈冠豪\source\repos\Project1\Project1\源.cpp(253,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\陈冠豪\source\repos\Project1\x64\Debug\Project1.exe
